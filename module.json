@@ -1,0 +1,11 @@
+{
+  "name": "uTensor",
+  "version": "0.0.0",
+  "description": "yotta module for uTensor",
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-classic": "lancaster-university/mbed-classic#microbit_hfclk+mb6"
+  }
+}
